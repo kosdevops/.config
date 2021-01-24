@@ -21,8 +21,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Airline
     Plug 'vim-airline/vim-airline'
     Plug 'vim-airline/vim-airline-themes'
-    " NerdFonts
-    Plug 'ryanoasis/vim-devicons'
     " Ranger
     Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
     " Commentary
@@ -31,6 +29,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'norcalli/nvim-colorizer.lua'
     " Rainbow Parentheses
     Plug 'junegunn/rainbow_parentheses.vim'
+    "Rainbow Level
+    Plug 'thiagoalessio/rainbow_levels.vim'
+    " Yggdroot / indentline
+    Plug 'yggdroot/indentline'
     " Startify 
     Plug 'mhinz/vim-startify'
     " Git and Project Management
@@ -40,6 +42,20 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/gv.vim'
     " Which-key
     Plug 'liuchengxu/vim-which-key'
+    "Floaterm
+    Plug 'voldikss/vim-floaterm'
+    " Snippets
+    Plug 'honza/vim-snippets'
+    " Emmet
+    Plug 'mattn/emmet-vim'
+    " Bracey
+    Plug 'turbio/bracey.vim', {'do': 'npm install --prefix server'}
+    " SASS
+    Plug 'tpope/vim-haml'
+    " Tagalong
+    Plug 'andrewradev/tagalong.vim'
+    " NerdFonts
+    Plug 'ryanoasis/vim-devicons'
 
 call plug#end()
 
