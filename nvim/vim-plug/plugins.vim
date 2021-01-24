@@ -31,6 +31,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'junegunn/rainbow_parentheses.vim'
     "Rainbow Level
     Plug 'thiagoalessio/rainbow_levels.vim'
+    " Sneak text navigation
+    Plug 'justinmk/vim-sneak'
+    " Quick Scope
+    Plug 'unblevable/quick-scope'
     " Yggdroot / indentline
     Plug 'yggdroot/indentline'
     " Startify 
