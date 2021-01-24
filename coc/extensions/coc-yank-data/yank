@@ -2,3 +2,15 @@
 	tabs
 7cbc88c7fd10dc0981e8be32ad17a1d9|file:///Users/sss/.config/nvim/general/settings.vim|38|1|V|vim
 	set airline
+2a00cf6037098e7f44527e8cf7e2f066|file:///Users/sss/.config/nvim/themes/themes.vim|2|1|V|vim
+	colorscheme purify 
+ee09d1bf4a2f9256fdcffdcd6d69b509|file:///Users/sss/.config/nvim/themes/themes.vim|6|1|V|vim
+	" Darkspace
+	colorscheme darkspace
+	let g:darkspace_italics=1
+7e5b8b86b41bb6f0eb589cba30ba22b6|file:///Users/sss/.config/nvim/themes/airline.vim|15|1|V|vim
+	let g:airline_theme = 'darkspace'
+60c84afc2935f30ef7e59440f29e9c0a|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|1|V|vim
+	    " Darkspace
+c25dbdc32ca76af12f02435e1bdd7f49|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|V|vim
+	    Plug 'yuqio/vim-darkspace'
