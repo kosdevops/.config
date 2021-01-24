@@ -38,6 +38,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'tpope/vim-fugitive'
     Plug 'tpope/vim-rhubarb'
     Plug 'junegunn/gv.vim'
+    " Which-key
+    Plug 'liuchengxu/vim-which-key'
 
 call plug#end()
 

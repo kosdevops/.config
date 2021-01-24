@@ -12,8 +12,8 @@ let g:signify_sign_show_text = 1
 " Sinnify Jump though hunks
 nmap <leader>j <plug>(signify-next-hunk)
 nmap <leader>k <plug>(signify-prev-hunk)
-nmap <leader>J 9999<leader>gJ
-nmap <leader>K 9999<leader>gk
+" nmap <leader>J 9999<leader>gJ
+" nmap <leader>K 9999<leader>gk
 
 
 " colors 
