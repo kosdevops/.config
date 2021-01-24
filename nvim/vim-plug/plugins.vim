@@ -27,6 +27,17 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'kevinhwang91/rnvimr', {'do': 'make sync'}
     " Commentary
     Plug 'tpope/vim-commentary'
+    " Colorizer
+    Plug 'norcalli/nvim-colorizer.lua'
+    " Rainbow Parentheses
+    Plug 'junegunn/rainbow_parentheses.vim'
+    " Startify 
+    Plug 'mhinz/vim-startify'
+    " Git and Project Management
+    Plug 'mhinz/vim-signify'
+    Plug 'tpope/vim-fugitive'
+    Plug 'tpope/vim-rhubarb'
+    Plug 'junegunn/gv.vim'
 
 call plug#end()
 
