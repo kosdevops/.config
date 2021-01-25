@@ -15,3 +15,5 @@ source $HOME/.config/nvim/plug-config/emmet.vim
 source $HOME/.config/nvim/themes/rainbowlevels.vim
 source $HOME/.config/nvim/plug-config/sneak.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
+source $HOME/.config/nvim/plug-config/easy-align.vim
+
