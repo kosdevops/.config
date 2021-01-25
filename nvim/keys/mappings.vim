@@ -54,3 +54,6 @@ map <leader><leader>. <Plug>(easymotion-repeat)
 map <leader><leader>f <Plug>(easymotion-overwin-f)
 map <leader><leader>g <Plug>(easymotion-overwin-w)
 
+" Syntax toggle
+nnoremap <leader>b :syntax on<cr>
+nnoremap <leader>bb :syntax off<cr>

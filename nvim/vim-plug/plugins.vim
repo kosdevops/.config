@@ -14,14 +14,22 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'scrooloose/NERDTree'
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
+    "
+    "======================================================================
+    " THEMES
+    
     " Purify
     Plug 'kyoz/purify', { 'rtp': 'vim' }
     " Gruvbox
     Plug 'morhetz/gruvbox'
-    " Vim-Lucius
-    Plug 'jonathanfilip/vim-lucius' 
     " Spacegray
     Plug 'ajh17/spacegray.vim'
+    " Scheakur
+    Plug 'scheakur/vim-scheakur'
+     
+    " THEMES(end)
+    " ====================================================================
+    "
     " Stable version of coc
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Airline
