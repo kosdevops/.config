@@ -16,6 +16,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'jiangmiao/auto-pairs'
     " Purify
     Plug 'kyoz/purify', { 'rtp': 'vim' }
+    " Gruvbox
+    Plug 'morhetz/gruvbox'
     " Stable version of coc
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Airline
