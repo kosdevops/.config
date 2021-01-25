@@ -14,3 +14,366 @@ ee09d1bf4a2f9256fdcffdcd6d69b509|file:///Users/sss/.config/nvim/themes/themes.vi
 	    " Darkspace
 c25dbdc32ca76af12f02435e1bdd7f49|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|V|vim
 	    Plug 'yuqio/vim-darkspace'
+280d886e7329efce3f2df67ce7e212fc|file:///Users/sss/.config/nvim/init.vim|9|1|V|vim
+	source $HOME/.config/nvim/plug-config/rainbow.vim
+6504e6cf06197d1aeea1163bcc696c42|file:///Users/sss/.config/nvim/plug-config/start-screen.vim|41|13|V|vim
+	            \ 
+fe72a18ac7db73f161557c57059741e6|file:///Users/sss/.config/nvim/plug-config/rnvimr.vim|4|8|v|vim
+	pace>r :RnvimrToggle<CR>
+a41b561c9d17aea002e5aea605a46aac|file:///Users/sss/.config/nvim/init.vim|10|1|V|vim
+	source $HOME/.config/nvim/plug-config/start-screen.vim
+e3154d3264d1af73f88e535398ad3d97|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|45|1|V|vim
+	" Automatically install missing plugins on startup
+fe41e452abdf891614cc184a19b7b216|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|1|V|vim
+	call plug#end()
+f1b231eb32bfde26dd49f2af442d392d|file:///Users/sss/.hyper.js|30|19|v|javascript
+	rgba(248,27,27,0.8)
+3fbf486e5c5fea03a9a326222ad1b591|file:///Users/sss/.config/nvim/plug-config/signify.vim|12|1|V|vim
+	" Jump though hunks
+	nmap <leader>j <plug>(signify-next-hunk)
+	nmap <leader>k <plug>(signify-prev-hunk)
+	nmap <leader>J 9999<leader>gJ
+	nmap <leader>K 9999<leader>gk
+560fd6d0a123069aa608a1590d134609|file:///Users/sss/.config/nvim/keys/mappings.vim|43|1|V|vim
+	
+	" Sinnify Jump though hunks
+	nmap <leader>j <plug>(signify-next-hunk)
+	nmap <leader>k <plug>(signify-prev-hunk)
+	nmap <leader>J 9999<leader>gJ
+	nmap <leader>K 9999<leader>gk
+7f9d90498715344bb7ffe2b0652574e7|file:///Users/sss/.config/nvim/keys/which-key.vim|68|7|V|vim
+	      "
+5b8a4ff75f53e886206af17ed4ff1b30|file:///Users/sss/.hyper.js|161|1|V|javascript
+	console.log();
+9c49073d9d04ad341bb9562d138ff17d|file:///Users/sss/.hyper.js|162|1|V|javascript
+	const  = new ;
+9abae4fa4733574a1e9ddf1389c1db36|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|24|1|V|vim
+	    " NerdFonts
+	    Plug 'ryanoasis/vim-devicons'
+12d6c4e39343aedfbd162662e3d3274b|file:///Users/sss/.config/nvim/themes/rainbowlevels.vim|1|1|V|vim
+	nnoremap <leader>l :RainbowLevelsToggle<cr>
+fb4b88c73658bb1b6107441d0dc69ec5|file:///Users/sss/.config/nvim/plug-config/sneak.vim|17|3|v|vim
+	Cool 
+9cad2e2b08de24b9534d301bb968170c|file:///Users/sss/.config/nvim/init.vim|15|1|V|vim
+	source $HOME/.config/nvim/themes/rainbowlevels.vim
+561e9fc5de5187691bfa8fd5d9dfe6fa|file:///Users/sss/.config/nvim/init.vim|16|34|v|vim
+	rainbowlevels
+7bb9ab5d1c3f4edaa8c00aa72e5258e3|file:///Users/sss/.config/nvim/init.vim|16|27|v|vim
+	whemes
+bd1b65add738dfa3aa0f5b7630ff831e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|36|5|V|vim
+	    Plug 'honza/vim-snippets'
+d7d4f0d95327f57875859bbd3101d53e|file:///Users/sss/.config/nvim/keys/which-key.vim|27|1|V|vim
+	let g:which_key_map['/'] = [ '<Plug>NERDCommenterToggle'  , 'comment' ]
+41afaea1aa867401dacc2267832ca4d7|file:///Users/sss/.config/nvim/keys/which-key.vim|28|31|v|vim
+	Plug
+75532e0c6caedf5743a36b33e45f53d6|file:///Users/sss/.config/nvim/keys/which-key.vim|28|31|v|vim
+	NERDCommenterToggle
+fb35379727fe0b4008347cf91f2b76f0|file:///Users/sss/.config/nvim/keys/which-key.vim|28|33|V|vim
+	let g:which_key_map['q'] = [ ':q'  , 'comment' ]
+	let g:which_key_map['e'] = [ ':CocCommand explorer'       , 'explorer' ]
+06d4cd63bde972fc66a0aed41d2f5c51|file:///Users/sss/.config/nvim/keys/which-key.vim|28|38|v|vim
+	comment
+d792151e0aa2dfc20393c8f7787959c5|file:///Users/sss/.config/nvim/keys/which-key.vim|28|1|V|vim
+	let g:which_key_map['q'] = [ ':q'                         , 'quit' ]
+dbd73c2b545209688ed794c0d5413d5a|file:///Users/sss/.config/nvim/keys/which-key.vim|29|62|v|vim
+	quit
+ca4f48efaf04174d28ad8188c16fef7b|file:///Users/sss/.config/nvim/plug-config/quickscope.vim|6|1|V|vim
+	hghg
+fcc491ba532309d8942df543beaec67e|file:///Users/sss/.config/nvim/themes/themes.vim|7|13|v|vim
+	purify
+7fab9ecbf6b004e917300aebb2657232|file:///Users/sss/.config/nvim/themes/airline.vim|14|1|V|vim
+	let g:airline_theme = 'purify'
+1c2f0f5e96ec3ac906d229b7a3fde53d|file:///Users/sss/Documents/Code/101/index.html|10|1|V|html
+	     <h1>Hello</h1>
+30844e33e4698d4707cfb7bee672a29d|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|22|5|V|vim
+	    Plug 'flazz/vim-colorschemes'
+ceabb23cf71bc5dfb5977e007f341c28|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|22|4|v|vim
+	Plug 'flazz/vim-colorschemes'
+372199e99641413ea094a0e792ee63e6|file:///Users/sss/.config/nvim/themes/themes.vim|4|1|V|vim
+	lucius
+0d3c8704e2082061a89f6b87f4866d78|file:///Users/sss/.config/nvim/themes/themes.vim|4|1|V|vim
+	" Purify Settings
+	
+95a6d3f43196ed404bd44ab4e65c21ed|file:///Users/sss/.config/nvim/autoload/plugged/vim-lucius/colors/lucius.vim|54|3|v|vim
+	LuciusBlack
+ed573bcb1b258b2ea3ea13861ae209e6|file:///Users/sss/.config/nvim/autoload/plugged/vim-lucius/colors/lucius.vim|66|3|v|vim
+	g:lucius_style  (default: 'dark')
+670b6f1bd2082a7a46be50c2008963da|file:///Users/sss/.config/nvim/autoload/plugged/vim-lucius/colors/lucius.vim|54|3|v|vim
+	LuciusBlack
+	
+0cf31b2c283ce3431794586df7b0996d|file:///Users/sss/.hyper.js|46|1|v|javascript
+	    
+b50339a10e1de285ac99d4c3990b8693|file:///Users/sss/.config/nvim/autoload/plugged/vim-lucius/colors/lucius.vim|430|23|v|vim
+	NONE
+e6caf19ceb86f0503849ee40624261d1|file:///Users/sss/.config/nvim/autoload/plugged/vim-lucius/colors/lucius.vim|157|12|v|vim
+	g:lucius_use_underline
+d039983530702d9f00971a5c4d7a392e|file:///Users/sss/.config/nvim/themes/themes.vim|6|1|V|vim
+	" g:lucius_use_underline
+	" g:lucius_use_underline (default: 1)
+	" g:lucius_style  (default: 'dark')
+8905905ca859c64934892f4cf3649916|file:///Users/sss/.config/nvim/themes/themes.vim|6|1|V|vim
+	
+	" let g:gruvbox_italic=1
+835c4106afbf627895d5786188e56c57|file:///Users/sss/.config/nvim/themes/themes.vim|7|1|V|vim
+	" let g:gruvbox_italic=1
+69f923f23e89a302efbb2b0f7bc9e0f1|file:///Users/sss/.config/nvim/autoload/plugged/spacegray.vim/colors/spacegray.vim|61|54|v|vim
+	#303030
+a82fd95db10ff25dfad39f07372ebe37|file:///Users/sss/.config/nvim/themes/themes.vim|7|23|v|vim
+	dark
+93279e3308bdbbeed946fc965017f67a|file:///Users/sss/.hyper.js|46|24|v|javascript
+	121212
+2f469f8596dd5ff21ba1babf04ee87fb|file:///Users/sss/.config/nvim/themes/themes.vim|7|1|V|vim
+	colorscheme spacegray 
+72f929d56b2b8173b4c6fcf9fb50ef43|file:///Users/sss/.config/nvim/themes/themes.vim|10|13|v|vim
+	spacegray
+21717a24c4907aee9191d29125c7d5e9|file:///Users/sss/.hyper.js|46|23|v|javascript
+	#111314
+2bde031ed9c9c90d7c9f1b7677e1bffb|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|25|1|V|vim
+	    " Jellybeans
+	    Plug 'nanotech/jellybeans.vim'
+52b41baec7aab6bdde12b40af8481dc9|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|25|5|V|vim
+	    " Stable version of coc
+	    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+b1c85147de1f354b185faf73df306412|file:///Users/sss/.config/nvim/themes/themes.vim|10|1|V|vim
+	colorscheme jellybeans 
+945992e7f2f27bc88ebd5e43ba294d63|file:///Users/sss/.hyper.js|145|14|V|javascript
+	  // examples:
+	  //   `hyperpower`
+a3a984b1e7a6f85d0b38c5c59d4f0ef9|file:///Users/sss/Documents/Code/101/index.html|1|1|V|html
+	<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+	    <meta charset="UTF-8" />
+	    <title>Leaning How to CODE</title>
+	  </head>
+	  <body>
+	    Lerning how to code from HTML to JS.
+	    <br />
+	    <h1>Hello</h1>
+	    <h2>Hello</h2>
+	    <h3>Hello</h3>
+	    <h4>Hello</h4>
+	    <h5>Hello</h5>
+	    <h6>Hello</h6>
+	  </body>
+	</html>
+daf25d10f30af61b0ed5abd7ad4d235f|file:///Users/sss/Documents/Code/101/index.html|5|40|v|html
+	device-width
+567679be8bb426e5549e9b1363df2549|file:///Users/sss/Documents/Code/101/index.html|8|4|V|html
+	   div.css 
+9fa032d0e8d9a0da0e8eecef5674667a|file:///Users/sss/Documents/Code/101/index.html|8|3|V|html
+	  </body>
+97f6eb3cd0042ccb7376e447fac05b57|file:///Users/sss/Documents/Code/101/index.html|1|1|V|html
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	  <meta charset="UTF-8">
+	  <title></title>
+	</head>
+	<body>
+	</html>
+6a1ab3ec1dcb711bb74758f5a87f3f75|file:///Users/sss/Documents/Code/101/index.html|8|5|v|html
+	<div class="css">
+17cb46f852b66f07e202d7b861c80edf|file:///Users/sss/.config/nvim/keys/mappings.vim|52|1|V|vim
+	"Move cursor from surrounds
+	inoremap <C-x><C-x> <Esc>/[[({,]\_s*/e<CR>a
+e60992f44f1c4a325602b7d8be2c1961|file:///Users/sss/Documents/Code/101/index.html|1|1|V|html
+	<!DOCTYPE html>
+	<html lang="en">
+	  <head>
+	    <meta charset="UTF-8" />
+	    <title></title>
+	  </head>
+	  <body>
+	    <div class="css">(ablj)</div>
+	  </body>
+	</html>
+b92243db24c408d3b259a3dedde63543|file:///Users/sss/.config/nvim/plug-config/signify.vim|12|1|V|vim
+	" Sinnify Jump though hunks
+	nmap <leader>j <plug>(signify-next-hunk)
+	nmap <leader>k <plug>(signify-prev-hunk)
+	" nmap <leader>J 9999<leader>gJ
+	" nmap <leader>K 9999<leader>gk
+32d94b206cf91b71e9c6fc3cfddf1e7b|file:///Users/sss/.config/nvim/keys/mappings.vim|52|1|V|vim
+	" Sinnify Jump though hunks
+	nmap <leader>jk <plug>(signify-next-hunk)
+	nmap <leader>kj <plug>(signify-prev-hunk)
+	" nmap <leader>J 9999<leader>gJ
+	" nmap <leader>K 9999<leader>gk
+	
+36625a39599d24804e71b500db4023f1|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|1|v|vim
+	    Plug 'andrewradev/tagalong.vim'
+1feda6393e32a31ac212bdf1c207558e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong.vim'
+757e970c689620e2bc1479b53f63f044|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong.vim
+ad990957304bcf6485133eafeb822f0c|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong.vi
+532fb70ac755ec2e0d4327487ac8c500|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong.v
+35ef4ed16515f94b3be161a333ea4de7|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong.
+4990ba8cf79026a86a5acffa3de6af51|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalong
+769c2b23724d1bc2ac5136a908c209f4|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalon
+85a92c276fe52361ef93f9f5b440c511|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagalo
+0b69ea0c08895f1a2694a5ab4502f6ae|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tagal
+48508ea3c4ca8227433f15b29ffe9c2e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/taga
+da471be892c90fe326e55ec516a879c6|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/tag
+f96919aa6cb66bc39cc5f66380127fed|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/ta
+729a69953a3af12d95e701b1ec79cd48|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/t
+d50ac89b176ec8efdbeb7821ba2790cb|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev/
+47ef461798520e3a16fd57b3869a3791|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewradev
+5d43ef3ffeae269e7dad5b1e99063753|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewrade
+8b5296ca8c7f717c0053fe18620d89aa|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewrad
+9d6bf0c5a194bc4dd858065551fcc736|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewra
+fb93a15141d61b8ea6f19183a883d3b6|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrewr
+12e2d2d859f1012793c6ec05474a9f36|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andrew
+680cc36538fb70faf1d5cfa8ce4fb27a|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andre
+68ed4a001f7278b583f7193da8e0b59e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'andr
+373d2eca79cecf14c0010153bd43dea0|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'and
+89e875544180a0f5048d4206cb582b5d|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'an
+8950dd3dcc1c9b9d381682868691746b|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 'a
+6c9496fd921af0e2ed8253ac51dbc1c7|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug '
+002ed31cb2395f558e330770d8c0f47b|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|5|v|vim
+	Plug 
+61b085b1e2b2ad643e8a101ed95e2757|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|66|1|v|vim
+	    P
+1026bc571904711af53f75375d1ebead|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|22|2|v|vim
+	   P
+a2e4822a98337283e39f7b60acf85ec9|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|12|5|v|vim
+	empty
+b0eb5377d3f397d00f87184d048e6f2d|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|12|5|v|vim
+	autocmd
+bb43e7a9e5dee6f7f935af85e38106c2|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	Plug 'kyoz/purify', { 'rtp': 'vim' }
+d18967a9f3ef85cefb8f88b730fa2783|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|1|v|vim
+	if e
+681e4ce4cb3eb521f560da9e91c10fe2|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	empty(glob('~/.config/nvim/autoload/plug.vim'))
+87be09e4a46487b72b31ffd13c906488|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|1|v|vim
+	  " a
+d6f311d35124d80e0f89095c7cbf19cd|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	Plug 'jiangmiao/auto-pairs'
+1c5225fd44c1985d11aa7283647bedf3|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|1|v|vim
+	    \
+4cb892a14a592168c1cc0fc1e5c0abac|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|2|v|vim
+	   \
+4237b57202b0e647f721c0624fc23e08|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	empt
+98e377025a526c08b7f0bb4ba92d4575|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	\ ht
+1ddac1d711b03f4c8d83af4d5ac32821|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|18|5|v|vim
+	autoc
+53b9e9679a8ea25880376080b76f98ad|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	call
+02522bcc02591b376b84aa3dcec73db6|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	utocmd
+177f6b77d65ea867e40d6466ac16a1ca|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	lent
+871cc519d01e00de91789061d77e0bff|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Fi
+5c307eb5353d9fb9ffd80e70caf9d000|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Gru
+b8976aef6e04d14bd770a28b84b88904|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Gruvbox
+20a6795280407b1ade871acf05c970d3|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|1|v|vim
+	  silent
+7cd813df7feba6c98ee3cc7099ee1fed|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Auto pairs for '(' '[' '{'
+ed5371a143b064d8c4c7e5d39dd36418|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|1|v|vim
+	    "
+6501c16ac55df26c05eda902ae27b6c6|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	t !curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs
+5eef36fce74105bae7fb85483b5c0014|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Gruvbo
+5feae69f606e3da88dcb88e6c1aa954f|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" File Explor
+b0d86f84361f62a570d25574d0425a8b|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	l plug#begin('~/.config/nvim/autoload/plugge
+005d4d9591cb48e2c8ab4ce3ede59fa5|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Auto pairs for '(' '['
+3a887d1b70189611cb1a1a6c51bd5e11|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Gr
+634bfc0bd3cdb668559f1075d074ae9e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Auto pairs for '(' '
+3fce88cc7a471cfe5b80283aa5958d25|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	t !curl -fLo ~/.config/nvim/autoload/plug.vim --crea
+1e07235ad5ae32b76b8d26ae25502bbc|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	d VimEnter * Plug
+9da2ae50f885418aedfa92d46ffe8b4b|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	" Auto pairs for '(' 
+1e1507015227e14a10f7fba15f5d4a49|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|19|5|v|vim
+	 " Better Syntax
+9822676d17a365a6b6cb70b6a5be635a|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quick Scope
+eb5da680c89cb0fd061dffc689c6ec71|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Stable version of coc
+0fafd308bd4ec2f0e58f5066a7123f03|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Better Syntax Support
+524801c853bdd48ad4cf0f2d6d57f219|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|2|v|vim
+	   "
+cd698f082d3d4f9b48814c0d07a539de|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Co
+e2a1a9b7a64d939eea0f8024e20cea51|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Qui
+8d54036892899fb364871d58394a0d03|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quic
+ddac437ffbd2a9ab89bbe0cf407a9a19|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quick
+c56fd896b4316570f137b76ba4947d6e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quick 
+19a2e4f5cc666ce12c472044cf2f12b8|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Purify
+181eb906f12d34e2e95bbb7ddb44e4f9|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Vim-Luci
+4c5641ddf3601baca6da516c94b06ef1|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quick Sc
+03b5ac0c6dcf7e698fb2c1f09119cdef|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Quick S
+15d4d676cb5bd4f26cb9e0350aeec4e3|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Rainbo
+069f5fff80c0f9072ab700fdb4a502c2|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	"Rainbo
+1c18a45bd8333945606f46cb50ddf984|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Snea
+80fcce226fe9071bfb9d3b81dbf68503|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Bet
+3841d5f714743f4049a6a6e480736d3d|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Sne
+d5e15249cfb7f14b588df6951383f89f|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|42|5|v|vim
+	" Qu
+43a12c6a0648746c4ef25dc9382b47e2|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|9|6|v|vim
+	plug#begin
+f845953c56324ff04a26ece3ae0d8f41|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|9|6|v|vim
+	plug#begin('~/.config/nvim/autoload/plugged')
+84ea9b785b72ab46c2258ad970c1857e|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|9|1|v|vim
+	call p
+631ab085efaa5c1dbc9850d1561acae5|file:///Users/sss/.config/nvim/vim-plug/plugins.vim|5|3|v|vim
+	" autocmd VimEnter * PlugInstall
+661b185f4272b289420949a89b8a4a95|file:///Users/sss/.config/nvim/keys/mappings.vim|53|1|V|vim
+	map <leader><leader>. <Plug>(easymotion-repeat)
+965f99f1903ab13334c04986d258a72f|file:///Users/sss/.config/nvim/keys/mappings.vim|54|30|v|vim
+	easymotion-repeat
+0ed79c81f0c79ed16a5007c002cae5a7|file:///Users/sss/.config/nvim/keys/mappings.vim|54|1|V|vim
+	map <leader><leader>f <Plug>(easymotion-overwin-f)
