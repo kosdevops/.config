@@ -64,6 +64,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'tpope/vim-haml'
     " Tagalong
     Plug 'andrewradev/tagalong.vim'
+    " Multi-Cursors
+    Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+    " Easy Motion
+    Plug 'easymotion/vim-easymotion'
     " NerdFonts
     Plug 'ryanoasis/vim-devicons'
 

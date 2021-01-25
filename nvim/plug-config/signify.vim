@@ -8,13 +8,11 @@ let g:signify_sign_change            = '~'
 let g:signify_sign_show_count = 0
 let g:signify_sign_show_text = 1
 
-
 " Sinnify Jump though hunks
-nmap <leader>j <plug>(signify-next-hunk)
-nmap <leader>k <plug>(signify-prev-hunk)
+nmap <leader>jk <plug>(signify-next-hunk)
+nmap <leader>kj <plug>(signify-prev-hunk)
 " nmap <leader>J 9999<leader>gJ
 " nmap <leader>K 9999<leader>gk
-
 
 " colors 
 highlight SignifySignAdd                  ctermbg=green                guibg=#006400
