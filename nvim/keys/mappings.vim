@@ -46,6 +46,11 @@ nnoremap <leader>i :Bracey<cr>
 nnoremap <leader>ii :BraceyReload<cr>
 nnoremap <leader>I :BraceyStop<cr>
 
-"RainbowLeve
+" RainbowLevel
 nnoremap <leader>l :RainbowLevelsToggle<cr>
+
+" EasyMotion
+map <leader><leader>. <Plug>(easymotion-repeat)
+map <leader><leader>f <Plug>(easymotion-overwin-f)
+map <leader><leader>g <Plug>(easymotion-overwin-w)
 
