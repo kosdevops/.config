@@ -70,6 +70,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'easymotion/vim-easymotion'
     " NerdFonts
     Plug 'ryanoasis/vim-devicons'
+    " Easy-Align
+    Plug 'junegunn/vim-easy-align'
 
 call plug#end()
 
