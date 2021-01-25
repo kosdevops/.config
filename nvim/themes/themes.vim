@@ -1,8 +1,12 @@
 syntax on " This is required
-colorscheme purify 
+" colorscheme purify 
 
-" Purify Settings
+" colorscheme lucius
+" LuciusBlack
 
-" let g:gruvbox_italic=1
+colorscheme spacegray 
+let g:spacegray_use_italics = 1
+
 " colorscheme gruvbox 
+" let g:gruvbox_italic=1
 

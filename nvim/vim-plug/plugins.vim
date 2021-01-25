@@ -18,6 +18,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'kyoz/purify', { 'rtp': 'vim' }
     " Gruvbox
     Plug 'morhetz/gruvbox'
+    " Vim-Lucius
+    Plug 'jonathanfilip/vim-lucius' 
+    " Spacegray
+    Plug 'ajh17/spacegray.vim'
     " Stable version of coc
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
     " Airline
