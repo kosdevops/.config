@@ -16,4 +16,4 @@ source $HOME/.config/nvim/themes/rainbowlevels.vim
 source $HOME/.config/nvim/plug-config/sneak.vim
 source $HOME/.config/nvim/plug-config/quickscope.vim
 source $HOME/.config/nvim/plug-config/easy-align.vim
-
+source $HOME/.config/nvim/plug-config/auto-pairs.vim
