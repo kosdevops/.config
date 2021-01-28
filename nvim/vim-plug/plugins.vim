@@ -21,7 +21,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Purify
     Plug 'kyoz/purify', { 'rtp': 'vim' }
     " Gruvbox
-    Plug 'morhetz/gruvbox'
+    Plug 'gruvbox-community/gruvbox'
     " Spacegray
     Plug 'ajh17/spacegray.vim'
     " Scheakur
@@ -80,6 +80,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ryanoasis/vim-devicons'
     " Easy-Align
     Plug 'junegunn/vim-easy-align'
+    " Vim-Surround
+    Plug 'tpope/vim-surround'
 
 call plug#end()
 

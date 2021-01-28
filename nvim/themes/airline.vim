@@ -15,9 +15,3 @@ let g:airline_theme = 'purify'
 " let g:airline_theme = 'spacegray'
 " let g:airline_theme = 'gruvbox'
 
-
-" Always show tabs
-set showtabline=2
-
-" We don't need to see things like -- INSERT -- anymore
-set noshowmode

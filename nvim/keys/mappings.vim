@@ -57,3 +57,9 @@ map <leader><leader>g <Plug>(easymotion-overwin-w)
 " Syntax toggle
 nnoremap <leader>b :syntax on<cr>
 nnoremap <leader>bb :syntax off<cr>
+
+" Soure vimrc
+nnoremap <leader><leader>s :so %<cr>
+
+" Telescope
+" nnoremap <leader>fj :lua require('telescope.builtin').grep_string({ search = vim.fn.input("Grep For > ")})<cr>
