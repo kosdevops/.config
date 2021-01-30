@@ -377,3 +377,18 @@ f845953c56324ff04a26ece3ae0d8f41|file:///Users/sss/.config/nvim/vim-plug/plugins
 	easymotion-repeat
 0ed79c81f0c79ed16a5007c002cae5a7|file:///Users/sss/.config/nvim/keys/mappings.vim|54|1|V|vim
 	map <leader><leader>f <Plug>(easymotion-overwin-f)
+540e80cb607ee0b7b014d5ff411b5d1c|untitled:2|93|23|v|markdown
+	npm install -g neovim
+3831d6344ebcc29feccdd24d701b3060|untitled:2|71|63|v|markdown
+	:help |provider-python|
+	
+e8f422ff364cf75e4835628d867cd730|untitled:3|71|70|v|markdown
+	provider-python
+04a05885efc55a1a4519e7a37ac8977f|untitled:5|31|46|v|markdown
+	pip3 install neovim-remote
+02a688de643276463fb5f1a0d52cc53c|untitled:5|18|1|V|markdown
+	  - ERROR: Version: 2.7.16 (default, Jun  5 2020, 22:59:21) [GCC 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.29.20) (-macos10.15-objc-
+658311efb1177617a20fd231140f0046|untitled:2|20|9|v|markdown
+	Python version inside Ranger must be greater than 3
+68934a3e9455fa72420237eb05902327|file:///Users/sss/.hyper.js|39|18|v|javascript
+	false

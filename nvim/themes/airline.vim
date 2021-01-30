@@ -11,7 +11,8 @@ let g:airline_left_sep = ''
 let g:airline_right_sep = ''
 
 " Switch to your current theme
-let g:airline_theme = 'purify'
+" let g:airline_theme = 'purify'
 " let g:airline_theme = 'spacegray'
-" let g:airline_theme = 'gruvbox'
+let g:airline_theme = 'gruvbox'
+
 
